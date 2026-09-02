@@ -5,3 +5,4 @@
 2026-04-22 10:15:01,135 - INFO - Generating signal
 2026-04-22 10:15:01,140 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.4987, 'latency_ms': 120, 'seed': 42, 'status': 'success'}
 2026-04-22 10:15:01,141 - INFO - Job completed successfully
+

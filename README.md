@@ -10,7 +10,7 @@ This project showcases best practices in building maintainable, scalable, and re
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objective
 
 * Build a reproducible batch-processing workflow.
 * Demonstrate configuration-driven execution.
@@ -49,7 +49,7 @@ Automatically generates execution metrics including:
 * Signal generation rate
 * Pipeline latency
 
-### 📝 Logging & Monitoring
+### 📝 Logging and Monitoring
 
 * Structured log generation.
 * Execution tracking.

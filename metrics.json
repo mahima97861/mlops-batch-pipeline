@@ -4,6 +4,6 @@
     "metric": "signal_rate",
     "value": 0.4987,
     "latency_ms": 120,
-    "seed": 42,
+    "seed": 41,
     "status": "success"
 }

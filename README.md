@@ -1,4 +1,4 @@
-# 🚀 MLOps Batch Processing Pipeline
+# 🚀 MLOps Batch Processings Pipeline
 
 ## 📖 Overview
 

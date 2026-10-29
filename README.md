@@ -6,7 +6,7 @@ The **MLOps Batch Processing Pipeline** is a reproducible and containerized data
 
 The pipeline processes financial market **OHLCV (Open, High, Low, Close, Volume)** data, computes rolling statistical features, generates trading signals, and exports execution metrics for monitoring and analysis.
 
-This project showcases best practices in building maintainable, scalable, and reproducible machine learning operations workflows.
+This project showcases best practice in building maintainable, scalable, and reproducible machine learning operations workflows.
 
 ---
 
